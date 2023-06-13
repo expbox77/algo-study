@@ -26,19 +26,19 @@
 
 - 소스코드는 code/[문제 출처(플랫폼)]문제이름-난이도.{언어별 확장자} 로 저장합니다.
 
-```
+```text
 [PGS]직사각형 별찍기-Lv.1.py
 ```
 
 - 풀이는 code 디렉토리에 [문제 출처(플랫폼)]문제이름-난이도.md로 저장합니다.
 
-```
+```text
 [PGS]직사각형 별찍기-Lv.1.md
 ```
 
 - 알고리즘 공부는 /docs/날짜-공부내용.md로 저장합니다.
 
-```
+```text
 20230612-파이썬 딥러닝에 자주쓰는 패키지모음.md
 ```
 
@@ -58,14 +58,14 @@
 
 1. 마음에 드는 문제를 선택한다.
 
-- (Option) 가능하다면 시간을 정하고 풀어본다.
+   - (Option) 가능하다면 시간을 정하고 풀어본다.
 
 2. 문제를 풀기 전/후 상관없이 풀이 파일을 작성한다.
 
 3. 아래의 양식을 확인하여 파일을 작성한다.
 
-- [샘플 코드](code/sample/[ETC]sample-Lv.0.py)
-- [샘플 풀이](docs/sample/[ETC]sample-Lv.0.md)
+   - [샘플 코드](code/sample/[ETC]sample-Lv.0.py)
+   - [샘플 풀이](docs/sample/[ETC]sample-Lv.0.md)
 
 4. 모든 파일 작성이 끝나면 관련 파일(코드, 풀이 해설)을 업로드한다.
 
@@ -74,6 +74,6 @@
 
 ## 👍 참고
 
-- https://github.com/aglide100/algorithm-study
-- https://github.com/ellynhan/challenge100-codingtest-study
+- <https://github.com/aglide100/algorithm-study>
+- <https://github.com/ellynhan/challenge100-codingtest-study>
 - [멀티잇] 코딩테스트 러닝클래스(Python) 5월반
