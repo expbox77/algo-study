@@ -2,7 +2,7 @@
 
 - 풀이 날짜: 20230612
 - (Option) 풀이 소요시간: 0분
-- 출처: https://samplecode.local/sample
+- 출처: <https://samplecode.local/sample>
 
 <br />
 
