@@ -24,6 +24,8 @@
 | --- | --- | ------ |
 | 5   | 24  | "TUE"  |
 
+<br />
+
 ## 공부할 개념
 
 - [`datetime 패키지`](https://docs.python.org/ko/3/library/datetime.html#datetime-objects)
@@ -47,6 +49,8 @@ def solution(a, b):
     week = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN']
     return week[dt.datetime(2016, 5, 24, 0, 0).weekday()]
 ```
+
+<br />
 
 1차 시도에는 바보같이 입출력 예에 사용했던 그대로를 리턴값으로 넣어주는 바람에 오답이 나와버렸다. 전에 했던 [\[PGS\]폰켓몬](/docs/[PGS]폰켓몬-Lv.1.md)에서도 이런 실수를 했는데 실제 제출할 때는 오답이라고 나오지도 않고 제출하면 끝이니 이런 실수를 최대한 줄여야겠다고 생각했다.
 
