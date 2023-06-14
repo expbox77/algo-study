@@ -10,6 +10,8 @@ s = ["abcde", "qwer", "qw"]
 # 입출력 예 1
 s_select = s[0]
 
+# 1차 시도
+# 합계: 100.0 / 100.0
 def solution(s):
     center_num = int(len(s) / 2)
     
