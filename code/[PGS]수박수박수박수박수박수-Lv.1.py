@@ -9,7 +9,7 @@ n = [3, 4]
 # answer = ["수박수", "수박수박"]
 
 sel_ex = 0
-n_select = n[0]
+n_select = n[sel_ex]
 
 def solution(n):
     return "수박" * int(n / 2) if n % 2 == 0 else "수박" * int(n / 2) + "수"
